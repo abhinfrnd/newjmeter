@@ -1,0 +1,182 @@
+2020-08-28 12:13:46,829 INFO o.a.j.u.JMeterUtils: Setting Locale to en_IN
+2020-08-28 12:13:46,864 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-08-28 12:13:46,883 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-08-28 12:13:46,886 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2020-08-28 12:13:46,887 INFO o.a.j.JMeter: Version 5.3
+2020-08-28 12:13:46,887 INFO o.a.j.JMeter: java.version=1.8.0_181
+2020-08-28 12:13:46,887 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-08-28 12:13:46,887 INFO o.a.j.JMeter: os.name=Windows 10
+2020-08-28 12:13:46,887 INFO o.a.j.JMeter: os.arch=amd64
+2020-08-28 12:13:46,887 INFO o.a.j.JMeter: os.version=10.0
+2020-08-28 12:13:46,888 INFO o.a.j.JMeter: file.encoding=Cp1252
+2020-08-28 12:13:46,888 INFO o.a.j.JMeter: java.awt.headless=null
+2020-08-28 12:13:46,888 INFO o.a.j.JMeter: Max memory     =934281216
+2020-08-28 12:13:46,889 INFO o.a.j.JMeter: Available Processors =4
+2020-08-28 12:13:46,898 INFO o.a.j.JMeter: Default Locale=English (India)
+2020-08-28 12:13:46,898 INFO o.a.j.JMeter: JMeter  Locale=English (India)
+2020-08-28 12:13:46,898 INFO o.a.j.JMeter: JMeterHome=E:\jmeter
+2020-08-28 12:13:46,898 INFO o.a.j.JMeter: user.dir  =E:\jmeter\bin
+2020-08-28 12:13:46,899 INFO o.a.j.JMeter: PWD       =E:\jmeter\bin
+2020-08-28 12:13:52,443 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: Abhi-PC FullName: Abhi-PC
+2020-08-28 12:13:53,175 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.IntelliJTheme
+2020-08-28 12:13:54,173 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-08-28 12:14:12,618 INFO o.a.j.s.FileServer: Default base='E:\jmeter\bin'
+2020-08-28 12:14:12,624 INFO o.a.j.g.a.Load: Loading file: E:\jmeter\bin\Testingworld.jmx
+2020-08-28 12:14:12,624 INFO o.a.j.s.FileServer: Set new base='E:\jmeter\bin'
+2020-08-28 12:14:13,127 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-08-28 12:14:13,233 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-08-28 12:14:13,235 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-08-28 12:14:13,241 INFO o.a.j.s.SaveService: Loading file: E:\jmeter\bin\Testingworld.jmx
+2020-08-28 12:14:13,288 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2020-08-28 12:14:13,290 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2020-08-28 12:14:13,356 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-28 12:14:13,357 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-28 12:14:13,357 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-28 12:14:13,357 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-28 12:14:13,357 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-08-28 12:14:13,357 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-08-28 12:14:13,543 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-08-28 12:14:13,543 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-08-28 12:14:13,544 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-08-28 12:14:13,544 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-08-28 12:14:14,741 INFO o.a.j.s.FileServer: Set new base='E:\jmeter\bin'
+2020-08-28 14:01:28,343 INFO o.a.j.g.a.t.TemplateManager: Reading templates from: E:\jmeter\bin\templates\templates.xml
+2020-08-28 14:01:36,783 INFO o.a.j.g.a.Load: Merging file: E:\jmeter\bin\templates\BeanShellSampler.jmx
+2020-08-28 14:01:36,816 INFO o.a.j.s.SaveService: Loading file: E:\jmeter\bin\templates\BeanShellSampler.jmx
+2020-08-28 14:01:38,872 WARN o.a.j.g.a.Load: Unexpected error. org.apache.jmeter.exceptions.IllegalUserActionException: Can't merge BeanShell Sampler (BeanShellSampler) here
+org.apache.jmeter.exceptions.IllegalUserActionException: Can't merge BeanShell Sampler (BeanShellSampler) here
+	at org.apache.jmeter.gui.action.Load.insertLoadedTree(Load.java:195) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:130) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.SelectTemplatesDialog.replaceTemplateParametersAndLoad(SelectTemplatesDialog.java:196) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.SelectTemplatesDialog.checkDirtyAndLoad(SelectTemplatesDialog.java:169) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.SelectTemplatesDialog.actionPerformed(SelectTemplatesDialog.java:307) ~[ApacheJMeter_core.jar:5.3]
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source) ~[?:1.8.0_181]
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source) ~[?:1.8.0_181]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source) ~[?:1.8.0_181]
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source) ~[?:1.8.0_181]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Component.processMouseEvent(Unknown Source) ~[?:1.8.0_181]
+	at javax.swing.JComponent.processMouseEvent(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Component.processEvent(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Container.processEvent(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Component.dispatchEventImpl(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Component.dispatchEvent(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Window.dispatchEventImpl(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Component.dispatchEvent(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue.access$500(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_181]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_181]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_181]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue$4.run(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue$4.run(Unknown Source) ~[?:1.8.0_181]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_181]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.WaitDispatchSupport$2.run(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.WaitDispatchSupport$4.run(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.WaitDispatchSupport$4.run(Unknown Source) ~[?:1.8.0_181]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_181]
+	at java.awt.WaitDispatchSupport.enter(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Dialog.show(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Component.show(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Component.setVisible(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Window.setVisible(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Dialog.setVisible(Unknown Source) ~[?:1.8.0_181]
+	at org.apache.jmeter.gui.action.TemplatesCommand.doActionAfterCheck(TemplatesCommand.java:47) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:44) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:87) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:69) ~[ApacheJMeter_core.jar:5.3]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue.access$500(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_181]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_181]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.WaitDispatchSupport$2.run(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.WaitDispatchSupport$4.run(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.WaitDispatchSupport$4.run(Unknown Source) ~[?:1.8.0_181]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_181]
+	at java.awt.WaitDispatchSupport.enter(Unknown Source) ~[?:1.8.0_181]
+	at java.awt.Dialog.show(Unknown Source) ~[?:1.8.0_181]
+	at javax.swing.JOptionPane.showOptionDialog(Unknown Source) ~[?:1.8.0_181]
+	at javax.swing.JOptionPane.showConfirmDialog(Unknown Source) ~[?:1.8.0_181]
+	at javax.swing.JOptionPane.showConfirmDialog(Unknown Source) ~[?:1.8.0_181]
+	at org.apache.jmeter.gui.action.Close.performAction(Close.java:83) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.Close.doActionAfterCheck(Close.java:69) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:44) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:87) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:69) ~[ApacheJMeter_core.jar:5.3]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_181]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_181]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_181]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_181]
+2020-08-28 14:01:44,270 INFO o.a.j.g.a.Load: Loading file: C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin\Testingworld.jmx
+2020-08-28 14:01:44,271 INFO o.a.j.s.FileServer: Set new base='C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin'
+2020-08-28 14:01:44,271 INFO o.a.j.s.SaveService: Loading file: C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin\Testingworld.jmx
+2020-08-28 14:01:46,377 INFO o.a.j.s.FileServer: Set new base='C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin'
+2020-08-28 14:19:38,133 INFO o.a.j.g.a.Load: Loading file: C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin\Testingworld.jmx
+2020-08-28 14:19:38,133 INFO o.a.j.s.FileServer: Set new base='C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin'
+2020-08-28 14:19:38,133 INFO o.a.j.s.SaveService: Loading file: C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin\Testingworld.jmx
+2020-08-28 14:19:38,284 INFO o.a.j.s.FileServer: Set new base='C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin'
+2020-08-28 14:23:38,970 INFO o.a.j.g.a.Load: Loading file: C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin\Testingworld.jmx
+2020-08-28 14:23:38,970 INFO o.a.j.s.FileServer: Set new base='C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin'
+2020-08-28 14:23:38,970 INFO o.a.j.s.SaveService: Loading file: C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin\Testingworld.jmx
+2020-08-28 14:23:39,141 INFO o.a.j.s.FileServer: Set new base='C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin'
+2020-08-28 14:23:48,425 INFO o.a.j.g.a.Load: Loading file: C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin\Testingworld.jmx
+2020-08-28 14:23:48,425 INFO o.a.j.s.FileServer: Set new base='C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin'
+2020-08-28 14:23:48,425 INFO o.a.j.s.SaveService: Loading file: C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin\Testingworld.jmx
+2020-08-28 14:23:48,640 INFO o.a.j.s.FileServer: Set new base='C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin'
+2020-08-28 14:30:54,924 INFO o.a.j.g.a.Load: Loading file: C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin\Testingworld.jmx
+2020-08-28 14:30:54,924 INFO o.a.j.s.FileServer: Set new base='C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin'
+2020-08-28 14:30:54,924 INFO o.a.j.s.SaveService: Loading file: C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin\Testingworld.jmx
+2020-08-28 14:30:55,286 INFO o.a.j.s.FileServer: Set new base='C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins.jenkins\workspace\Batch_1\bin'
+2020-08-28 14:45:40,949 INFO o.a.j.g.a.Load: Loading file: E:\jmeter\bin\Testingworld.jmx
+2020-08-28 14:45:40,950 INFO o.a.j.s.FileServer: Set new base='E:\jmeter\bin'
+2020-08-28 14:45:40,950 INFO o.a.j.s.SaveService: Loading file: E:\jmeter\bin\Testingworld.jmx
+2020-08-28 14:45:41,249 INFO o.a.j.s.FileServer: Set new base='E:\jmeter\bin'
+2020-08-28 14:45:50,211 INFO o.a.j.g.a.Load: Loading file: E:\jmeter\bin\Testingworld.jmx
+2020-08-28 14:45:50,211 INFO o.a.j.s.FileServer: Set new base='E:\jmeter\bin'
+2020-08-28 14:45:50,211 INFO o.a.j.s.SaveService: Loading file: E:\jmeter\bin\Testingworld.jmx
+2020-08-28 14:45:50,349 INFO o.a.j.s.FileServer: Set new base='E:\jmeter\bin'
+2020-08-28 14:57:12,870 INFO o.a.j.g.a.Load: Loading file: E:\jmeter\bin\Testingworld.jmx
+2020-08-28 14:57:12,871 INFO o.a.j.s.FileServer: Set new base='E:\jmeter\bin'
+2020-08-28 14:57:12,871 INFO o.a.j.s.SaveService: Loading file: E:\jmeter\bin\Testingworld.jmx
+2020-08-28 14:57:13,208 INFO o.a.j.s.FileServer: Set new base='E:\jmeter\bin'
+2020-08-28 14:58:17,071 INFO o.a.j.g.a.Load: Loading file: C:\Users\Abhi\Desktop\tt.jmx
+2020-08-28 14:58:17,071 INFO o.a.j.s.FileServer: Set new base='C:\Users\Abhi\Desktop'
+2020-08-28 14:58:17,071 INFO o.a.j.s.SaveService: Loading file: C:\Users\Abhi\Desktop\tt.jmx
+2020-08-28 14:58:17,197 INFO o.a.j.s.FileServer: Set new base='C:\Users\Abhi\Desktop'
+2020-08-28 15:01:21,976 INFO o.a.j.g.a.Load: Loading file: C:\Users\Abhi\Desktop\tt.jmx
+2020-08-28 15:01:21,976 INFO o.a.j.s.FileServer: Set new base='C:\Users\Abhi\Desktop'
+2020-08-28 15:01:21,976 INFO o.a.j.s.SaveService: Loading file: C:\Users\Abhi\Desktop\tt.jmx
+2020-08-28 15:01:22,067 INFO o.a.j.s.FileServer: Set new base='C:\Users\Abhi\Desktop'
+2020-08-28 15:11:39,367 INFO o.a.j.g.a.Load: Loading file: E:\jmeter\bin\Testingworld.jmx
+2020-08-28 15:11:39,367 INFO o.a.j.s.FileServer: Set new base='E:\jmeter\bin'
+2020-08-28 15:11:39,367 INFO o.a.j.s.SaveService: Loading file: E:\jmeter\bin\Testingworld.jmx
+2020-08-28 15:11:39,481 INFO o.a.j.s.FileServer: Set new base='E:\jmeter\bin'
